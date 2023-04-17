@@ -1,0 +1,12 @@
+claire
+1
+800
+DIFFICILE
+3
+5
+375
+240
+epee
+0
+potion
+1

@@ -1,0 +1,10 @@
+yolo
+2
+800
+DIFFICILE
+5
+0
+370
+190
+aile
+0
